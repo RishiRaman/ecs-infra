@@ -218,3 +218,10 @@ This repository contains the Dockerized frontend and backend applications along 
 3. Configure custom domain and SSL certificate
 4. Set up monitoring alerts and dashboards
 5. Implement auto-scaling policies
+
+
+# ecs-infra
+
+# ecsworkshop-infra
+cca5244 (Initial commit)
+temp-branch
